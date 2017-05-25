@@ -1,0 +1,27 @@
+{
+  "name": "flexbox",
+  "version": "1.0.0",
+  "description": "grunt-flexbox",
+  "main": "gruntfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/katarzyna-lachcik/Flexbox.git"
+  },
+  "keywords": [
+    "grunt"
+  ],
+  "author": "Katarzyna Lachcik",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/katarzyna-lachcik/Flexbox/issues"
+  },
+  "homepage": "https://github.com/katarzyna-lachcik/Flexbox#readme",
+  "devDependencies": {
+    "grunt": "^1.0.1",
+    "grunt-contrib-imagemin": "^1.0.1",
+    "grunt-sass": "^2.0.0"
+  }
+}
