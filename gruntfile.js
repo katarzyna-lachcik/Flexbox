@@ -39,5 +39,5 @@ module.exports = function(grunt) {
 	grunt.loadNpmTasks('grunt-contrib-watch');
 
   // Default task(s).
-	grunt.registerTask('default', ['sass' , 'imagemin' , 'watch']);
+	grunt.registerTask('default', ['sass', 'imagemin', 'watch']);
 };
